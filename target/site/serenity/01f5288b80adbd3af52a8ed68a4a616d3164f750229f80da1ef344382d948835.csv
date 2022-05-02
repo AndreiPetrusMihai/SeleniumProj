@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword car should display the corresponding article","SUCCESS","2022-05-02T08:26:02.9753137+03:00[Europe/Bucharest]","0.0","8.17"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2022-05-02T08:26:18.9363522+03:00[Europe/Bucharest]","0.0","3.91"

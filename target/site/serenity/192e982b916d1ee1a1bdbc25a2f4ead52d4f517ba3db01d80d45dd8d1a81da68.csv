@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword telephone should display the corresponding article","FAILURE","2022-05-02T08:26:11.7675038+03:00[Europe/Bucharest]","0.0","3.22"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","FAILURE","2022-05-02T08:26:15.1060083+03:00[Europe/Bucharest]","0.0","3.42"
