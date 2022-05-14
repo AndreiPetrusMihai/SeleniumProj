@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import pcgarage.steps.EndUserSteps;
 
 @RunWith(SerenityRunner.class)
+
 public class SearchByProductStory {
 
     @Managed(uniqueSession = true)

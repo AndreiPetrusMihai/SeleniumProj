@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Search by keyword story","Searching by keyword car should display the corresponding article","SUCCESS","2022-05-02T08:26:02.9753137+03:00[Europe/Bucharest]","0.0","8.17"
-"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2022-05-02T08:26:18.9363522+03:00[Europe/Bucharest]","0.0","3.91"
+"Search by keyword story","Searching by keyword car should display the corresponding article","SUCCESS","2022-05-14T14:28:52.5671263+03:00[Europe/Athens]","0.0","7.53"
+"Search by keyword story","Searching by keyword telephone should display the corresponding article","SUCCESS","2022-05-14T14:29:00.5522283+03:00[Europe/Athens]","0.0","2.95"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2022-05-14T14:29:06.6806193+03:00[Europe/Athens]","0.0","3.15"

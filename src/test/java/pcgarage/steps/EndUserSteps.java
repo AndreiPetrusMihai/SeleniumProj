@@ -1,6 +1,7 @@
 package pcgarage.steps;
 
 import net.thucydides.core.annotations.Step;
+import net.thucydides.core.annotations.Steps;
 import org.example.pages.DictionaryPage;
 import pcgarage.pages.MainPage;
 
@@ -41,5 +42,17 @@ public class EndUserSteps {
     public void looks_for(String term) {
         enters(term);
         starts_search();
+    }
+
+    @Step
+    public void checkCart(String cartSize){
+        boolean result = mainPage.checkFilterByTypeAndValue(cartSize);
+        assert result;
+    }
+
+    @Step
+    public void checkCartFail(){
+        boolean result = mainPage.cartIsEmpty();
+        assert result;
     }
 }

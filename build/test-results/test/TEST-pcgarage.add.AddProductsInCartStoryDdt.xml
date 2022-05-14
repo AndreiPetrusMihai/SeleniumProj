@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pcgarage.add.AddProductsInCartStoryDdt" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-14T16:54:15" hostname="DESKTOP-S1745G8" time="15.63">
+  <properties/>
+  <testcase name="not_add_products_products_will_not_be_in_cartDDT[0]" classname="pcgarage.add.AddProductsInCartStoryDdt" time="9.096"/>
+  <testcase name="add_products_from_one_line_products_should_be_in_cartDDT[0]" classname="pcgarage.add.AddProductsInCartStoryDdt" time="5.91"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 1925
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+May 14, 2022 7:54:18 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

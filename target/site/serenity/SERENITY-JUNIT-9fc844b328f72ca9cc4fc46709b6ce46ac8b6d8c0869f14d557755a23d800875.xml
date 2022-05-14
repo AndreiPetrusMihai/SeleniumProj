@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="pcgarage.add.AddProductsInCartStoryDdt" skipped="0" tests="2" time="16.84" timestamp="2022-05-14 04:30:37"><testcase classname="pcgarage.add.AddProductsInCartStoryDdt" name="Add products from multiple lines products will not be in cart DDT"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+pcgarage.steps.EndUserSteps.checkCartFail(EndUserSteps.java:55)&#13;
+pcgarage.add.AddProductsInCartStoryDdt.add_products_from_multiple_lines_products_will_not_be_in_cartDDT(AddProductsInCartStoryDdt.java:45)&#13;
+</system-err></testcase><testcase classname="pcgarage.add.AddProductsInCartStoryDdt" name="Add products from one line products should be in cart DDT"><error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;body &gt; div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in &gt; div &gt; div &gt; div.modal-header &gt; button&quot;}&#10;  (Session info: chrome=101.0.4951.54)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.54, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\parva\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 0cd756bd0f7af96f97e7853d95fc6666&#10;*** Element info: {Using=css selector, value=body &gt; div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in &gt; div &gt; div &gt; div.modal-header &gt; button}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">no such element: Unable to locate element: {"method":"css selector","selector":"body &gt; div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in &gt; div &gt; div &gt; div.modal-header &gt; button"}
+  (Session info: chrome=101.0.4951.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.54, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\parva\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0cd756bd0f7af96f97e7853d95fc6666
+*** Element info: {Using=css selector, value=body &gt; div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in &gt; div &gt; div &gt; div.modal-header &gt; button}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: unknown</error><system-err>no such element: Unable to locate element: {"method":"css selector","selector":"body &gt; div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in &gt; div &gt; div &gt; div.modal-header &gt; button"}
+  (Session info: chrome=101.0.4951.54)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.54, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\parva\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0cd756bd0f7af96f97e7853d95fc6666
+*** Element info: {Using=css selector, value=body &gt; div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in &gt; div &gt; div &gt; div.modal-header &gt; button}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: unknown
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-S1745G8', ip: '192.168.31.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.13'
+Driver info: driver.version: unknown&#13;
+pcgarage.pages.MainPage.checkFilterByTypeAndValue(MainPage.java:53)&#13;
+pcgarage.steps.EndUserSteps.checkCart(EndUserSteps.java:49)&#13;
+pcgarage.add.AddProductsInCartStoryDdt.add_products_from_one_line_products_should_be_in_cartDDT(AddProductsInCartStoryDdt.java:37)&#13;
+</system-err></testcase></testsuite>
