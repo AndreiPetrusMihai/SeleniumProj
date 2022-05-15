@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by product story","Searching by keyword masina should display products select","SUCCESS","2022-05-14T14:29:12.3291395+03:00[Europe/Athens]","0.0","6.62"
+"Search by product story","Searching by keyword blablable should display the no products found","SUCCESS","2022-05-14T14:29:19.0879949+03:00[Europe/Athens]","0.0","3.44"
+"Search by keyword story","Searching by keyword car should display the corresponding article","SUCCESS","2022-05-14T14:28:52.5671263+03:00[Europe/Athens]","0.0","7.53"
+"Search by keyword story","Searching by keyword telephone should display the corresponding article","SUCCESS","2022-05-14T14:29:00.5522283+03:00[Europe/Athens]","0.0","2.95"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2022-05-14T14:29:06.6806193+03:00[Europe/Athens]","0.0","3.15"
